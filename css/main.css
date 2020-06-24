@@ -1,5 +1,5 @@
 :root {
-  --bleu: #111b54;
+  --bleu: #18085c;
   --white: #ffffff;
   --gris: #efefef;
 }
@@ -84,5 +84,5 @@ img.imagen {
 }
 
 .naverr {
-  background: linear-gradient(to right, #111b54, #0098fd);
+  background: linear-gradient(to right, #18085c, #0098fd);
 }
