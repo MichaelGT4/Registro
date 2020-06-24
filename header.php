@@ -5,7 +5,7 @@
 <div id="sidebar-container" class="bg-bleu">
     <div class="logo-title">
     <img class="imagen d-inline-block" src="image/logo2.png" alt="">
-        <h4 class="text-white font-weight-bold d-inline-block mb-0"> Biblioteca</h4>
+        <h4 class="h2 text-white font-weight-bold d-inline-block mb-0"> Biblioteca</h4>
     </div>
 
     <div class="menu">
@@ -35,13 +35,9 @@
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <form class="form-inline position-relative d-inline-block my-2">
-          <input class="form-control" type="search" placeholder="Buscar" aria-label="Buscar">
-          <button class="btn position-absolute btn-search" type="submit"><i class="icon ion-md-search"></i></button>
-        </form>
         <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
           <li class="nav-item dropdown">
-            <a class="nav-link text-white dropdown-toggle" href="#" id="navbarDropdown" role="button"
+            <a class="usuario h4 nav-link text-white dropdown-toggle" href="#" id="navbarDropdown" role="button"
               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Usuario
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">

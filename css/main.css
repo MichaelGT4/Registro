@@ -86,3 +86,9 @@ img.imagen {
 .naverr {
   background: linear-gradient(to right, #18085c, #0098fd);
 }
+
+a.usuario {
+  margin-right: 50px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
