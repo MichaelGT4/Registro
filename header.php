@@ -37,7 +37,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
           <li class="nav-item dropdown">
-            <a class="usuario h4 nav-link text-white dropdown-toggle" href="#" id="navbarDropdown" role="button"
+            <a class="usuario h5 nav-link text-white dropdown-toggle" href="#" id="navbarDropdown" role="button"
               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Usuario
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
